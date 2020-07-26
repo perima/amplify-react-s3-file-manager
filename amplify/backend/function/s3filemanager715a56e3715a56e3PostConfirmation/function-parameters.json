@@ -1,0 +1,16 @@
+{
+  "trigger": true,
+  "modules": [
+    "add-to-group"
+  ],
+  "parentResource": "s3filemanager715a56e3715a56e3",
+  "functionName": "s3filemanager715a56e3715a56e3PostConfirmation",
+  "resourceName": "s3filemanager715a56e3715a56e3PostConfirmation",
+  "parentStack": "auth",
+  "triggerEnvs": [],
+  "triggerDir": "/home/ec2-user/.nvm/versions/node/v10.21.0/lib/node_modules/@aws-amplify/cli/node_modules/amplify-category-auth/provider-utils/awscloudformation/utils/../triggers/PostConfirmation",
+  "triggerTemplate": "PostConfirmation.json.ejs",
+  "roleName": "s3filemanager715a56e3715a56e3PostConfirmation",
+  "skipEdit": true,
+  "GROUP": "users"
+}
