@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## Setting up the project
+If this the first time setting up this app, before you clone the repo you will need to setup your Amplify environment. 
+
+You can find out more on how to do this in the [Amplify getting started tutorial](https://docs.amplify.aws/start/q/integration/react).
+
+
 ## Available Scripts
 
 In the project directory, you can run:
