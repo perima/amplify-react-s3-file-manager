@@ -71,6 +71,20 @@
                         "Arn",
                         "LambdaExecutionRole"
                     ]
+                },
+                {
+                    "category": "auth",
+                    "resourceName": "s3filemanager715a56e3715a56e3",
+                    "attributes": [
+                        "UserPoolId"
+                    ]
+                },
+                {
+                    "category": "auth",
+                    "resourceName": "userPoolGroups",
+                    "attributes": [
+                        "usersGroupRole"
+                    ]
                 }
             ]
         }

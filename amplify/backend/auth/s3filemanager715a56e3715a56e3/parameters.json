@@ -1,6 +1,6 @@
 {
     "identityPoolName": "s3filemanager715a56e3_identitypool_715a56e3",
-    "allowUnauthenticatedIdentities": false,
+    "allowUnauthenticatedIdentities": true,
     "resourceNameTruncated": "s3file715a56e3",
     "userPoolName": "s3filemanager715a56e3_userpool_715a56e3",
     "autoVerifiedAttributes": [
